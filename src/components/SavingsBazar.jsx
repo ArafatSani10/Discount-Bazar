@@ -13,7 +13,7 @@ const SavingsBazar = () => {
     return (
         <div className='mt-12 my-6'>
             <div className='bg-base-200'>
-                <h1 className='font-bold md:text-4xl text-xl text-center max-sm:text-lg'>
+                <h1 className='font-bold md:text-5xl  text-center max-sm:text-2xl'>
                     Shop Savings from Discount Bazar: {products.length}
                 </h1>
                 <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mt-12 px-2'>

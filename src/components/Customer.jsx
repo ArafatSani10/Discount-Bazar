@@ -13,8 +13,8 @@ const Customer = () => {
     return (
         <div className='mt-12 my-5'>
             <div>
-                <h1 className='md:text-4xl font-bold max-sm:text-xl text-center'>
-                    What's Our Customer's Says: {customer.length}
+                <h1 className='md:text-5xl font-bold max-sm:text-2xl text-center'>
+                    What Our Customer's Say: {customer.length}
                 </h1>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 space-x-5'>
