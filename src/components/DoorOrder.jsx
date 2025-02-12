@@ -12,7 +12,7 @@ const DoorOrder = () => {
 
             <div className='flex items-center justify-between mt-12 mx-12 my-6 '>
                 <h1 className='p-3 border-2 w-[635px] rounded-full bg-yellow-300 text-white font-bold text-center  shadow-xl'>Start Shopping</h1>
-                <h1 className='p-3 border-2 w-[635px] rounded-full   bg-yellow-400 text-white font-bold text-center shadow-xl'>Shop Best Sellers</h1>
+                <h1 className='p-3 border-2 w-[635px] rounded-full   bg-yellow-300 text-white font-bold text-center shadow-xl'>Shop Best Sellers</h1>
             </div>
         </div>
     );

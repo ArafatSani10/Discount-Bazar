@@ -1,0 +1,25 @@
+{
+    "reviews": [
+        {
+            "reviewStart": 5,
+            "customerName": "John Doe",
+            "customerJob": "Software Engineer",
+            "description": "This product is absolutely amazing! It exceeded my expectations in every way. Highly recommend it!",
+            "customerImage": "https://i.ibb.co.com/sJHSMs5K/istockphoto-1464539429-612x612.jpg"
+        },
+        {
+            "reviewStart": 4,
+            "customerName": "Jane Smith",
+            "customerJob": "Graphic Designer",
+            "description": "Great quality and very easy to use. The design is sleek, and I love the features. Just a bit pricey, but worth it.",
+            "customerImage": "https://i.ibb.co.com/5hkjByLQ/download-1.jpg"
+        },
+        {
+            "reviewStart": 3,
+            "customerName": "Michael Johnson",
+            "customerJob": "Web Developer",
+            "description": "The product is decent, but it didn't perform as expected. The delivery was fast, but the quality could be improved.",
+            "customerImage": "https://i.ibb.co.com/BHH9QTwt/stock-photo-confident-rich-eastern-indian-business-man-executive-standing-in-modern-big-city-looking.jpg"
+        }
+    ]
+}
