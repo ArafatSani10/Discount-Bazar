@@ -11,7 +11,6 @@ const MainLayout = () => {
             <SubHeader></SubHeader>
             <Header></Header>
             <Navbar></Navbar>
-        
             <Outlet></Outlet>
         </div>
     );
