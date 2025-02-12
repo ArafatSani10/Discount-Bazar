@@ -1,0 +1,23 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co.com/bcM7nrx/M050-Buy3.webp",
+        "title": "Buy More Save More",
+        "description": "For deliveries between the 22nd january and 14th February.Exclusions & T&Cs apply."
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co.com/B5hpv20t/M050-couk-Valentines-day.webp",
+        "title": "Your Favouritses",
+        "description": "Make their day Special"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co.com/8gvjs4X3/W48-M050-TTD-Zone.webp",
+        "title": "Flash Deals-24 Hours ONly.!",
+        "description": "Shop Our Taste the Difference range."
+      }
+    ]
+  }
+  
