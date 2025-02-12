@@ -3,6 +3,7 @@ import { Outlet } from 'react-router-dom';
 import SubHeader from '../components/SubHeader';
 import Navbar from '../pages/Navbar/Navbar';
 import Header from '../pages/Navbar/Header';
+import Footer from '../pages/Footer/Footer';
 
 
 const MainLayout = () => {
@@ -12,6 +13,7 @@ const MainLayout = () => {
             <Header></Header>
             <Navbar></Navbar>
             <Outlet></Outlet>
+            <Footer></Footer>
         </div>
     );
 };
